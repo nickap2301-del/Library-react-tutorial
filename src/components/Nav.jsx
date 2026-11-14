@@ -20,7 +20,7 @@ const Nav = () => {
                 </a>
             </li>
             <button className="btn__menu">
-                <FontAwesomeIcon icon="bars"/>
+                <FontAwesomeIcon icon="bars" />
             </button>
         </ul>
          </div>
