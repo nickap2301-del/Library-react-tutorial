@@ -2,6 +2,7 @@ import React from 'react';
 
 import '@fortawesome/react-fontawesome';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 const Nav = () => {
     return (
         <nav>
